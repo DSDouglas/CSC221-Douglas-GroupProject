@@ -10,4 +10,4 @@ __Project Description:__ Webscrapping data from website listed below to visually
 __Webscrapped URL:__ https://en.wikipedia.org/wiki/List_of_best-selling_albums 
 
 __Collaborators:__
-- Mikayla Demers
+- Mikayla Demers <Accepted 4/20/2021>
